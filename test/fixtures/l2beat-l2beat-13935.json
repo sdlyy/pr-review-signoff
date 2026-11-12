@@ -1,0 +1,326 @@
+{
+  "headRefOid": "f2bd2d2b30fdb5f97ca1b66d6d8a5cb3e094e35d",
+  "early": {
+    "nodes": [
+      {
+        "id": "IC_kwDOFO12sc8AAAABlskI9Q",
+        "author": {
+          "login": "chatgpt-codex-connector",
+          "__typename": "Bot"
+        },
+        "body": "<!-- codex-review-state:v1 {\"code_review\":{\"commit_sha\":\"f2bd2d2b30fdb5f97ca1b66d6d8a5cb3e094e35d\",\"has_any_findings\":false,\"has_unresolved_findings\":false,\"status\":\"completed\"},\"security_review\":{\"commit_sha\":null,\"has_any_findings\":null,\"has_unresolved_findings\":null,\"status\":null}} -->",
+        "url": "https://github.com/l2beat/l2beat/pull/13935#issuecomment-6824724725",
+        "updatedAt": "2026-11-12T13:20:28Z"
+      },
+      {
+        "id": "IC_kwDOFO12sc8AAAABlskxDw",
+        "author": {
+          "login": "github-actions",
+          "__typename": "Bot"
+        },
+        "body": "",
+        "url": "https://github.com/l2beat/l2beat/pull/13935#issuecomment-6824734991",
+        "updatedAt": "2026-11-12T13:19:46Z"
+      },
+      {
+        "id": "IC_kwDOFO12sc8AAAABlsk0rQ",
+        "author": {
+          "login": "coderabbitai",
+          "__typename": "Bot"
+        },
+        "body": "<summary><strong>Merge Risk:</strong> <strong><picture><img src=\"https://storage.googleapis.com/coderabbit_public_assets/review-comment-icons-v1/risk-unassessed-16.svg\" width=\"16\" height=\"16\" align=\"absmiddle\" alt=\"\"></picture> Minimal</strong> · up to <code>f2bd2</code></summary>\n<!-- final_review_risk_start -->\n<!-- final_review_risk_label\n**Merge Risk:** **⚪ Minimal** · up to `f2bd2`\n<!-- final_review_risk_coverage:{\"sourceCommitId\":\"f2bd2d2b30fdb5f97ca1b66d6d8a5cb3e094e35d\",\"coveredCommitId\":\"f2bd2d2b30fdb5f97ca1b66d6d8a5cb3e094e35d\",\"kind\":\"reviewed\"} -->\n<!-- final_review_risk_end -->",
+        "url": "https://github.com/l2beat/l2beat/pull/13935#issuecomment-6824735917",
+        "updatedAt": "2026-11-12T13:21:31Z"
+      },
+      {
+        "id": "IC_kwDOFO12sc8AAAABlsmhzw",
+        "author": {
+          "login": "greptile-apps",
+          "__typename": "Bot"
+        },
+        "body": "<!-- greptile_summary -->\n<!-- greptile_confidence_score:5 -->\n<sub>Reviews (1) · Last reviewed commit: [\"Stop the mobile project strip going blan...\"](https://github.com/l2beat/l2beat/commit/f2bd2d2b30fdb5f97ca1b66d6d8a5cb3e094e35d) · [Reviewed by Greptile](https://www.greptile.com/?utm_source=greptile_review&utm_medium=github&utm_campaign=review_public&utm_content=l2beat/l2beat)</sub>",
+        "url": "https://github.com/l2beat/l2beat/pull/13935#issuecomment-6824763855",
+        "updatedAt": "2026-11-12T13:21:06Z"
+      }
+    ]
+  },
+  "recent": {
+    "nodes": [
+      {
+        "id": "IC_kwDOFO12sc8AAAABlskI9Q",
+        "author": {
+          "login": "chatgpt-codex-connector",
+          "__typename": "Bot"
+        },
+        "body": "<!-- codex-review-state:v1 {\"code_review\":{\"commit_sha\":\"f2bd2d2b30fdb5f97ca1b66d6d8a5cb3e094e35d\",\"has_any_findings\":false,\"has_unresolved_findings\":false,\"status\":\"completed\"},\"security_review\":{\"commit_sha\":null,\"has_any_findings\":null,\"has_unresolved_findings\":null,\"status\":null}} -->",
+        "url": "https://github.com/l2beat/l2beat/pull/13935#issuecomment-6824724725",
+        "updatedAt": "2026-11-12T13:20:28Z"
+      },
+      {
+        "id": "IC_kwDOFO12sc8AAAABlskxDw",
+        "author": {
+          "login": "github-actions",
+          "__typename": "Bot"
+        },
+        "body": "",
+        "url": "https://github.com/l2beat/l2beat/pull/13935#issuecomment-6824734991",
+        "updatedAt": "2026-11-12T13:19:46Z"
+      },
+      {
+        "id": "IC_kwDOFO12sc8AAAABlsk0rQ",
+        "author": {
+          "login": "coderabbitai",
+          "__typename": "Bot"
+        },
+        "body": "<summary><strong>Merge Risk:</strong> <strong><picture><img src=\"https://storage.googleapis.com/coderabbit_public_assets/review-comment-icons-v1/risk-unassessed-16.svg\" width=\"16\" height=\"16\" align=\"absmiddle\" alt=\"\"></picture> Minimal</strong> · up to <code>f2bd2</code></summary>\n<!-- final_review_risk_start -->\n<!-- final_review_risk_label\n**Merge Risk:** **⚪ Minimal** · up to `f2bd2`\n<!-- final_review_risk_coverage:{\"sourceCommitId\":\"f2bd2d2b30fdb5f97ca1b66d6d8a5cb3e094e35d\",\"coveredCommitId\":\"f2bd2d2b30fdb5f97ca1b66d6d8a5cb3e094e35d\",\"kind\":\"reviewed\"} -->\n<!-- final_review_risk_end -->",
+        "url": "https://github.com/l2beat/l2beat/pull/13935#issuecomment-6824735917",
+        "updatedAt": "2026-11-12T13:21:31Z"
+      },
+      {
+        "id": "IC_kwDOFO12sc8AAAABlsmhzw",
+        "author": {
+          "login": "greptile-apps",
+          "__typename": "Bot"
+        },
+        "body": "<!-- greptile_summary -->\n<!-- greptile_confidence_score:5 -->\n<sub>Reviews (1) · Last reviewed commit: [\"Stop the mobile project strip going blan...\"](https://github.com/l2beat/l2beat/commit/f2bd2d2b30fdb5f97ca1b66d6d8a5cb3e094e35d) · [Reviewed by Greptile](https://www.greptile.com/?utm_source=greptile_review&utm_medium=github&utm_campaign=review_public&utm_content=l2beat/l2beat)</sub>",
+        "url": "https://github.com/l2beat/l2beat/pull/13935#issuecomment-6824763855",
+        "updatedAt": "2026-11-12T13:21:06Z"
+      }
+    ]
+  },
+  "reviews": {
+    "nodes": []
+  },
+  "reviewThreads": {
+    "nodes": []
+  },
+  "commits": {
+    "nodes": [
+      {
+        "commit": {
+          "statusCheckRollup": {
+            "contexts": {
+              "nodes": [
+                {
+                  "__typename": "CheckRun",
+                  "name": "affected",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "Build backend container image",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "Analyze (actions)",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "affected / List affected packages",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "config-diff",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "forbid-mixed-changes",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "forbid-mixed-changes",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "notify-migration-pr-closed",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "Config (backend - staging)",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "Analyze (javascript-typescript)",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "Config (backend - production)",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "Analyze (python)",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "Config (update-monitor - staging)",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "Config (update-monitor - production)",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "Config (tvs - staging)",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "Config (tvs - production)",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "deploy-frontend",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "Build frontend",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "deploy-frontend / Deploy to Coolify",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "Config smoke test",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "deploy-disco-ui",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "deploy-disco-ui",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "Build discoui",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "deploy-token-ui",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "deploy-token-ui",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "Build tools",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "Build token-backend container image",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "Typecheck",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "Test",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "E2E tests (Chromium 1/2)",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "E2E tests (Chromium 2/2)",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "E2E tests (perf)",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "E2E tests (blobs perf)",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "DiscoUI E2E tests (1/2)",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "DiscoUI E2E tests (2/2)",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "Lint & Format",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "Test if all GH Action jobs have timeout defined",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "E2E tests",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "CodeQL",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "CodeRabbit",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "Greptile Review",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "Socket Security: Project Report",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "Socket Security: Pull Request Alerts",
+                  "status": "COMPLETED"
+                }
+              ]
+            }
+          }
+        }
+      }
+    ]
+  }
+}

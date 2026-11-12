@@ -1,0 +1,448 @@
+{
+  "headRefOid": "6d4fdd94f0cff9a6bab83400e1fe680d22d9812d",
+  "early": {
+    "nodes": [
+      {
+        "id": "IC_kwDOFO12sc8AAAABlmGTxg",
+        "author": {
+          "login": "chatgpt-codex-connector",
+          "__typename": "Bot"
+        },
+        "body": "<!-- codex-review-state:v1 {\"code_review\":{\"commit_sha\":\"6d4fdd94f0cff9a6bab83400e1fe680d22d9812d\",\"has_any_findings\":true,\"has_unresolved_findings\":true,\"status\":\"completed\"},\"security_review\":{\"commit_sha\":null,\"has_any_findings\":null,\"has_unresolved_findings\":null,\"status\":null}} -->",
+        "url": "https://github.com/l2beat/l2beat/pull/13914#issuecomment-6817944518",
+        "updatedAt": "2026-11-12T08:02:14Z"
+      },
+      {
+        "id": "IC_kwDOFO12sc8AAAABlmGxYg",
+        "author": {
+          "login": "coderabbitai",
+          "__typename": "Bot"
+        },
+        "body": "<summary><strong>Merge Risk:</strong> <strong><picture><img src=\"https://storage.googleapis.com/coderabbit_public_assets/review-comment-icons-v1/risk-normal-16.svg\" width=\"16\" height=\"16\" align=\"absmiddle\" alt=\"\"></picture> Moderate</strong> · up to <code>6d4fd</code></summary>\n<!-- final_review_risk_start -->\n<!-- final_review_risk_label\n**Merge Risk:** **🟡 Moderate** · up to `6d4fd`\n<!-- final_review_risk_coverage:{\"sourceCommitId\":\"6d4fdd94f0cff9a6bab83400e1fe680d22d9812d\",\"coveredCommitId\":\"6d4fdd94f0cff9a6bab83400e1fe680d22d9812d\",\"kind\":\"reviewed\"} -->\n<!-- final_review_risk_end -->",
+        "url": "https://github.com/l2beat/l2beat/pull/13914#issuecomment-6817952098",
+        "updatedAt": "2026-11-12T08:04:15Z"
+      },
+      {
+        "id": "IC_kwDOFO12sc8AAAABlmHDvw",
+        "author": {
+          "login": "github-actions",
+          "__typename": "Bot"
+        },
+        "body": "",
+        "url": "https://github.com/l2beat/l2beat/pull/13914#issuecomment-6817956799",
+        "updatedAt": "2026-11-12T08:00:28Z"
+      },
+      {
+        "id": "IC_kwDOFO12sc8AAAABlmJiHw",
+        "author": {
+          "login": "greptile-apps",
+          "__typename": "Bot"
+        },
+        "body": "<!-- greptile_summary -->\n<!-- greptile_confidence_score:4 -->\n<sub>Reviews (1) · Last reviewed commit: [\"Share the advice renderers&#39; adversary he...\"](https://github.com/l2beat/l2beat/commit/0188b733c2949a5bc2f24349c45e15318b105198) · [Reviewed by Greptile](https://www.greptile.com/?utm_source=greptile_review&utm_medium=github&utm_campaign=review_public&utm_content=l2beat/l2beat)</sub>",
+        "url": "https://github.com/l2beat/l2beat/pull/13914#issuecomment-6817997343",
+        "updatedAt": "2026-11-12T07:53:29Z"
+      },
+      {
+        "id": "IC_kwDOFO12sc8AAAABlmTvkg",
+        "author": {
+          "login": "chatgpt-codex-connector",
+          "__typename": "Bot"
+        },
+        "body": "",
+        "url": "https://github.com/l2beat/l2beat/pull/13914#issuecomment-6818164626",
+        "updatedAt": "2026-11-12T08:02:10Z"
+      }
+    ]
+  },
+  "recent": {
+    "nodes": [
+      {
+        "id": "IC_kwDOFO12sc8AAAABlmGTxg",
+        "author": {
+          "login": "chatgpt-codex-connector",
+          "__typename": "Bot"
+        },
+        "body": "<!-- codex-review-state:v1 {\"code_review\":{\"commit_sha\":\"6d4fdd94f0cff9a6bab83400e1fe680d22d9812d\",\"has_any_findings\":true,\"has_unresolved_findings\":true,\"status\":\"completed\"},\"security_review\":{\"commit_sha\":null,\"has_any_findings\":null,\"has_unresolved_findings\":null,\"status\":null}} -->",
+        "url": "https://github.com/l2beat/l2beat/pull/13914#issuecomment-6817944518",
+        "updatedAt": "2026-11-12T08:02:14Z"
+      },
+      {
+        "id": "IC_kwDOFO12sc8AAAABlmGxYg",
+        "author": {
+          "login": "coderabbitai",
+          "__typename": "Bot"
+        },
+        "body": "<summary><strong>Merge Risk:</strong> <strong><picture><img src=\"https://storage.googleapis.com/coderabbit_public_assets/review-comment-icons-v1/risk-normal-16.svg\" width=\"16\" height=\"16\" align=\"absmiddle\" alt=\"\"></picture> Moderate</strong> · up to <code>6d4fd</code></summary>\n<!-- final_review_risk_start -->\n<!-- final_review_risk_label\n**Merge Risk:** **🟡 Moderate** · up to `6d4fd`\n<!-- final_review_risk_coverage:{\"sourceCommitId\":\"6d4fdd94f0cff9a6bab83400e1fe680d22d9812d\",\"coveredCommitId\":\"6d4fdd94f0cff9a6bab83400e1fe680d22d9812d\",\"kind\":\"reviewed\"} -->\n<!-- final_review_risk_end -->",
+        "url": "https://github.com/l2beat/l2beat/pull/13914#issuecomment-6817952098",
+        "updatedAt": "2026-11-12T08:04:15Z"
+      },
+      {
+        "id": "IC_kwDOFO12sc8AAAABlmHDvw",
+        "author": {
+          "login": "github-actions",
+          "__typename": "Bot"
+        },
+        "body": "",
+        "url": "https://github.com/l2beat/l2beat/pull/13914#issuecomment-6817956799",
+        "updatedAt": "2026-11-12T08:00:28Z"
+      },
+      {
+        "id": "IC_kwDOFO12sc8AAAABlmJiHw",
+        "author": {
+          "login": "greptile-apps",
+          "__typename": "Bot"
+        },
+        "body": "<!-- greptile_summary -->\n<!-- greptile_confidence_score:4 -->\n<sub>Reviews (1) · Last reviewed commit: [\"Share the advice renderers&#39; adversary he...\"](https://github.com/l2beat/l2beat/commit/0188b733c2949a5bc2f24349c45e15318b105198) · [Reviewed by Greptile](https://www.greptile.com/?utm_source=greptile_review&utm_medium=github&utm_campaign=review_public&utm_content=l2beat/l2beat)</sub>",
+        "url": "https://github.com/l2beat/l2beat/pull/13914#issuecomment-6817997343",
+        "updatedAt": "2026-11-12T07:53:29Z"
+      },
+      {
+        "id": "IC_kwDOFO12sc8AAAABlmTvkg",
+        "author": {
+          "login": "chatgpt-codex-connector",
+          "__typename": "Bot"
+        },
+        "body": "",
+        "url": "https://github.com/l2beat/l2beat/pull/13914#issuecomment-6818164626",
+        "updatedAt": "2026-11-12T08:02:10Z"
+      }
+    ]
+  },
+  "reviews": {
+    "nodes": [
+      {
+        "author": {
+          "login": "greptile-apps",
+          "__typename": "Bot"
+        },
+        "commit": {
+          "oid": "0188b733c2949a5bc2f24349c45e15318b105198"
+        },
+        "url": "https://github.com/l2beat/l2beat/pull/13914#pullrequestreview-5870947990"
+      },
+      {
+        "author": {
+          "login": "chatgpt-codex-connector",
+          "__typename": "Bot"
+        },
+        "commit": {
+          "oid": "0188b733c2949a5bc2f24349c45e15318b105198"
+        },
+        "url": "https://github.com/l2beat/l2beat/pull/13914#pullrequestreview-5870948119"
+      },
+      {
+        "author": {
+          "login": "coderabbitai",
+          "__typename": "Bot"
+        },
+        "commit": {
+          "oid": "0188b733c2949a5bc2f24349c45e15318b105198"
+        },
+        "url": "https://github.com/l2beat/l2beat/pull/13914#pullrequestreview-5870997450"
+      },
+      {
+        "author": {
+          "login": "coderabbitai",
+          "__typename": "Bot"
+        },
+        "commit": {
+          "oid": "6d4fdd94f0cff9a6bab83400e1fe680d22d9812d"
+        },
+        "url": "https://github.com/l2beat/l2beat/pull/13914#pullrequestreview-5871114837"
+      },
+      {
+        "author": {
+          "login": "coderabbitai",
+          "__typename": "Bot"
+        },
+        "commit": {
+          "oid": "6d4fdd94f0cff9a6bab83400e1fe680d22d9812d"
+        },
+        "url": "https://github.com/l2beat/l2beat/pull/13914#pullrequestreview-5871127855"
+      }
+    ]
+  },
+  "reviewThreads": {
+    "nodes": [
+      {
+        "isResolved": true,
+        "isOutdated": false,
+        "comments": {
+          "nodes": [
+            {
+              "author": {
+                "login": "greptile-apps",
+                "__typename": "Bot"
+              },
+              "url": "https://github.com/l2beat/l2beat/pull/13914#discussion_r4547728588"
+            }
+          ]
+        }
+      },
+      {
+        "isResolved": false,
+        "isOutdated": false,
+        "comments": {
+          "nodes": [
+            {
+              "author": {
+                "login": "chatgpt-codex-connector",
+                "__typename": "Bot"
+              },
+              "url": "https://github.com/l2beat/l2beat/pull/13914#discussion_r4547728693"
+            }
+          ]
+        }
+      },
+      {
+        "isResolved": false,
+        "isOutdated": false,
+        "comments": {
+          "nodes": [
+            {
+              "author": {
+                "login": "coderabbitai",
+                "__typename": "Bot"
+              },
+              "url": "https://github.com/l2beat/l2beat/pull/13914#discussion_r4547766450"
+            }
+          ]
+        }
+      },
+      {
+        "isResolved": true,
+        "isOutdated": true,
+        "comments": {
+          "nodes": [
+            {
+              "author": {
+                "login": "coderabbitai",
+                "__typename": "Bot"
+              },
+              "url": "https://github.com/l2beat/l2beat/pull/13914#discussion_r4547766460"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "commits": {
+    "nodes": [
+      {
+        "commit": {
+          "statusCheckRollup": {
+            "contexts": {
+              "nodes": [
+                {
+                  "__typename": "CheckRun",
+                  "name": "affected",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "Build backend container image",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "Analyze (actions)",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "affected / List affected packages",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "config-diff",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "forbid-mixed-changes",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "forbid-mixed-changes",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "Config (backend - staging)",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "Analyze (javascript-typescript)",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "Config (backend - production)",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "Analyze (python)",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "Config (update-monitor - staging)",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "Config (update-monitor - production)",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "Config (tvs - staging)",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "Config (tvs - production)",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "deploy-frontend",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "Build frontend",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "deploy-frontend / Deploy to Coolify",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "Config smoke test",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "deploy-disco-ui",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "Build discoui",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "deploy-disco-ui / Deploy to Coolify",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "deploy-token-ui",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "Build tools",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "deploy-token-ui / Deploy to Coolify",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "Build token-backend container image",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "Typecheck",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "Test",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "E2E tests (Chromium 1/2)",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "E2E tests (Chromium 2/2)",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "E2E tests (perf)",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "E2E tests (blobs perf)",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "DiscoUI E2E tests (1/2)",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "DiscoUI E2E tests (2/2)",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "Lint & Format",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "Test if all GH Action jobs have timeout defined",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "E2E tests",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "CodeQL",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "CodeRabbit",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "Socket Security: Project Report",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "Socket Security: Pull Request Alerts",
+                  "status": "COMPLETED"
+                }
+              ]
+            }
+          }
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,838 @@
+{
+  "headRefOid": "df62885337005bc4fdb042b0b9cef82f9d38fde5",
+  "early": {
+    "nodes": [
+      {
+        "id": "IC_kwDOFO12sc8AAAABloekxg",
+        "author": {
+          "login": "linear",
+          "__typename": "Bot"
+        },
+        "body": "",
+        "url": "https://github.com/l2beat/l2beat/pull/13922#issuecomment-6820439238",
+        "updatedAt": "2026-11-12T09:55:48Z"
+      },
+      {
+        "id": "IC_kwDOFO12sc8AAAABloey_A",
+        "author": {
+          "login": "chatgpt-codex-connector",
+          "__typename": "Bot"
+        },
+        "body": "<!-- codex-review-state:v1 {\"code_review\":{\"commit_sha\":\"df6dcb4c9bbad04684bf1c90e97a5f0166ec45d8\",\"has_any_findings\":false,\"has_unresolved_findings\":false,\"status\":\"completed\"},\"security_review\":{\"commit_sha\":null,\"has_any_findings\":null,\"has_unresolved_findings\":null,\"status\":null}} -->",
+        "url": "https://github.com/l2beat/l2beat/pull/13922#issuecomment-6820442876",
+        "updatedAt": "2026-11-12T09:59:06Z"
+      },
+      {
+        "id": "IC_kwDOFO12sc8AAAABlofGow",
+        "author": {
+          "login": "coolify-l2beat",
+          "__typename": "Bot"
+        },
+        "body": "",
+        "url": "https://github.com/l2beat/l2beat/pull/13922#issuecomment-6820447907",
+        "updatedAt": "2026-11-12T11:36:32Z"
+      },
+      {
+        "id": "IC_kwDOFO12sc8AAAABlofS2A",
+        "author": {
+          "login": "coderabbitai",
+          "__typename": "Bot"
+        },
+        "body": "",
+        "url": "https://github.com/l2beat/l2beat/pull/13922#issuecomment-6820451032",
+        "updatedAt": "2026-11-12T11:47:18Z"
+      },
+      {
+        "id": "IC_kwDOFO12sc8AAAABlofZew",
+        "author": {
+          "login": "github-actions",
+          "__typename": "Bot"
+        },
+        "body": "",
+        "url": "https://github.com/l2beat/l2beat/pull/13922#issuecomment-6820452731",
+        "updatedAt": "2026-11-12T11:35:16Z"
+      },
+      {
+        "id": "IC_kwDOFO12sc8AAAABloqGLA",
+        "author": {
+          "login": "greptile-apps",
+          "__typename": "Bot"
+        },
+        "body": "<!-- greptile_summary -->\n<!-- greptile_confidence_score:4 -->\n<sub>Reviews (1) · Last reviewed commit: [\"Rewind reorgs of any depth on the /ether...\"](https://github.com/l2beat/l2beat/commit/df6dcb4c9bbad04684bf1c90e97a5f0166ec45d8) · [Reviewed by Greptile](https://www.greptile.com/?utm_source=greptile_review&utm_medium=github&utm_campaign=review_public&utm_content=l2beat/l2beat)</sub>",
+        "url": "https://github.com/l2beat/l2beat/pull/13922#issuecomment-6820628012",
+        "updatedAt": "2026-11-12T10:05:07Z"
+      }
+    ]
+  },
+  "recent": {
+    "nodes": [
+      {
+        "id": "IC_kwDOFO12sc8AAAABloekxg",
+        "author": {
+          "login": "linear",
+          "__typename": "Bot"
+        },
+        "body": "",
+        "url": "https://github.com/l2beat/l2beat/pull/13922#issuecomment-6820439238",
+        "updatedAt": "2026-11-12T09:55:48Z"
+      },
+      {
+        "id": "IC_kwDOFO12sc8AAAABloey_A",
+        "author": {
+          "login": "chatgpt-codex-connector",
+          "__typename": "Bot"
+        },
+        "body": "<!-- codex-review-state:v1 {\"code_review\":{\"commit_sha\":\"df6dcb4c9bbad04684bf1c90e97a5f0166ec45d8\",\"has_any_findings\":false,\"has_unresolved_findings\":false,\"status\":\"completed\"},\"security_review\":{\"commit_sha\":null,\"has_any_findings\":null,\"has_unresolved_findings\":null,\"status\":null}} -->",
+        "url": "https://github.com/l2beat/l2beat/pull/13922#issuecomment-6820442876",
+        "updatedAt": "2026-11-12T09:59:06Z"
+      },
+      {
+        "id": "IC_kwDOFO12sc8AAAABlofGow",
+        "author": {
+          "login": "coolify-l2beat",
+          "__typename": "Bot"
+        },
+        "body": "",
+        "url": "https://github.com/l2beat/l2beat/pull/13922#issuecomment-6820447907",
+        "updatedAt": "2026-11-12T11:36:32Z"
+      },
+      {
+        "id": "IC_kwDOFO12sc8AAAABlofS2A",
+        "author": {
+          "login": "coderabbitai",
+          "__typename": "Bot"
+        },
+        "body": "",
+        "url": "https://github.com/l2beat/l2beat/pull/13922#issuecomment-6820451032",
+        "updatedAt": "2026-11-12T11:47:18Z"
+      },
+      {
+        "id": "IC_kwDOFO12sc8AAAABlofZew",
+        "author": {
+          "login": "github-actions",
+          "__typename": "Bot"
+        },
+        "body": "",
+        "url": "https://github.com/l2beat/l2beat/pull/13922#issuecomment-6820452731",
+        "updatedAt": "2026-11-12T11:35:16Z"
+      },
+      {
+        "id": "IC_kwDOFO12sc8AAAABloqGLA",
+        "author": {
+          "login": "greptile-apps",
+          "__typename": "Bot"
+        },
+        "body": "<!-- greptile_summary -->\n<!-- greptile_confidence_score:4 -->\n<sub>Reviews (1) · Last reviewed commit: [\"Rewind reorgs of any depth on the /ether...\"](https://github.com/l2beat/l2beat/commit/df6dcb4c9bbad04684bf1c90e97a5f0166ec45d8) · [Reviewed by Greptile](https://www.greptile.com/?utm_source=greptile_review&utm_medium=github&utm_campaign=review_public&utm_content=l2beat/l2beat)</sub>",
+        "url": "https://github.com/l2beat/l2beat/pull/13922#issuecomment-6820628012",
+        "updatedAt": "2026-11-12T10:05:07Z"
+      }
+    ]
+  },
+  "reviews": {
+    "nodes": [
+      {
+        "author": {
+          "login": "greptile-apps",
+          "__typename": "Bot"
+        },
+        "commit": {
+          "oid": "df6dcb4c9bbad04684bf1c90e97a5f0166ec45d8"
+        },
+        "url": "https://github.com/l2beat/l2beat/pull/13922#pullrequestreview-5872532191"
+      },
+      {
+        "author": {
+          "login": "coderabbitai",
+          "__typename": "Bot"
+        },
+        "commit": {
+          "oid": "df6dcb4c9bbad04684bf1c90e97a5f0166ec45d8"
+        },
+        "url": "https://github.com/l2beat/l2beat/pull/13922#pullrequestreview-5872645788"
+      },
+      {
+        "author": {
+          "login": "coderabbitai",
+          "__typename": "Bot"
+        },
+        "commit": {
+          "oid": "4f83a3ee258735b9f4118697cfd7623a14ba9901"
+        },
+        "url": "https://github.com/l2beat/l2beat/pull/13922#pullrequestreview-5872762393"
+      },
+      {
+        "author": {
+          "login": "github-advanced-security",
+          "__typename": "Bot"
+        },
+        "commit": {
+          "oid": "df62885337005bc4fdb042b0b9cef82f9d38fde5"
+        },
+        "url": "https://github.com/l2beat/l2beat/pull/13922#pullrequestreview-5873733526"
+      },
+      {
+        "author": {
+          "login": "coderabbitai",
+          "__typename": "Bot"
+        },
+        "commit": {
+          "oid": "df62885337005bc4fdb042b0b9cef82f9d38fde5"
+        },
+        "url": "https://github.com/l2beat/l2beat/pull/13922#pullrequestreview-5873825892"
+      }
+    ]
+  },
+  "reviewThreads": {
+    "nodes": [
+      {
+        "isResolved": false,
+        "isOutdated": false,
+        "comments": {
+          "nodes": [
+            {
+              "author": {
+                "login": "greptile-apps",
+                "__typename": "Bot"
+              },
+              "url": "https://github.com/l2beat/l2beat/pull/13922#discussion_r4548959754"
+            }
+          ]
+        }
+      },
+      {
+        "isResolved": false,
+        "isOutdated": true,
+        "comments": {
+          "nodes": [
+            {
+              "author": {
+                "login": "greptile-apps",
+                "__typename": "Bot"
+              },
+              "url": "https://github.com/l2beat/l2beat/pull/13922#discussion_r4548959768"
+            }
+          ]
+        }
+      },
+      {
+        "isResolved": false,
+        "isOutdated": true,
+        "comments": {
+          "nodes": [
+            {
+              "author": {
+                "login": "greptile-apps",
+                "__typename": "Bot"
+              },
+              "url": "https://github.com/l2beat/l2beat/pull/13922#discussion_r4548959778"
+            }
+          ]
+        }
+      },
+      {
+        "isResolved": false,
+        "isOutdated": false,
+        "comments": {
+          "nodes": [
+            {
+              "author": {
+                "login": "coderabbitai",
+                "__typename": "Bot"
+              },
+              "url": "https://github.com/l2beat/l2beat/pull/13922#discussion_r4549049863"
+            }
+          ]
+        }
+      },
+      {
+        "isResolved": false,
+        "isOutdated": false,
+        "comments": {
+          "nodes": [
+            {
+              "author": {
+                "login": "coderabbitai",
+                "__typename": "Bot"
+              },
+              "url": "https://github.com/l2beat/l2beat/pull/13922#discussion_r4549049868"
+            }
+          ]
+        }
+      },
+      {
+        "isResolved": false,
+        "isOutdated": false,
+        "comments": {
+          "nodes": [
+            {
+              "author": {
+                "login": "coderabbitai",
+                "__typename": "Bot"
+              },
+              "url": "https://github.com/l2beat/l2beat/pull/13922#discussion_r4549049878"
+            }
+          ]
+        }
+      },
+      {
+        "isResolved": false,
+        "isOutdated": false,
+        "comments": {
+          "nodes": [
+            {
+              "author": {
+                "login": "coderabbitai",
+                "__typename": "Bot"
+              },
+              "url": "https://github.com/l2beat/l2beat/pull/13922#discussion_r4549049896"
+            }
+          ]
+        }
+      },
+      {
+        "isResolved": false,
+        "isOutdated": true,
+        "comments": {
+          "nodes": [
+            {
+              "author": {
+                "login": "coderabbitai",
+                "__typename": "Bot"
+              },
+              "url": "https://github.com/l2beat/l2beat/pull/13922#discussion_r4549049907"
+            }
+          ]
+        }
+      },
+      {
+        "isResolved": false,
+        "isOutdated": true,
+        "comments": {
+          "nodes": [
+            {
+              "author": {
+                "login": "coderabbitai",
+                "__typename": "Bot"
+              },
+              "url": "https://github.com/l2beat/l2beat/pull/13922#discussion_r4549049912"
+            }
+          ]
+        }
+      },
+      {
+        "isResolved": false,
+        "isOutdated": true,
+        "comments": {
+          "nodes": [
+            {
+              "author": {
+                "login": "coderabbitai",
+                "__typename": "Bot"
+              },
+              "url": "https://github.com/l2beat/l2beat/pull/13922#discussion_r4549049919"
+            }
+          ]
+        }
+      },
+      {
+        "isResolved": false,
+        "isOutdated": true,
+        "comments": {
+          "nodes": [
+            {
+              "author": {
+                "login": "coderabbitai",
+                "__typename": "Bot"
+              },
+              "url": "https://github.com/l2beat/l2beat/pull/13922#discussion_r4549049927"
+            }
+          ]
+        }
+      },
+      {
+        "isResolved": false,
+        "isOutdated": true,
+        "comments": {
+          "nodes": [
+            {
+              "author": {
+                "login": "coderabbitai",
+                "__typename": "Bot"
+              },
+              "url": "https://github.com/l2beat/l2beat/pull/13922#discussion_r4549049940"
+            }
+          ]
+        }
+      },
+      {
+        "isResolved": false,
+        "isOutdated": true,
+        "comments": {
+          "nodes": [
+            {
+              "author": {
+                "login": "coderabbitai",
+                "__typename": "Bot"
+              },
+              "url": "https://github.com/l2beat/l2beat/pull/13922#discussion_r4549049959"
+            }
+          ]
+        }
+      },
+      {
+        "isResolved": true,
+        "isOutdated": true,
+        "comments": {
+          "nodes": [
+            {
+              "author": {
+                "login": "coderabbitai",
+                "__typename": "Bot"
+              },
+              "url": "https://github.com/l2beat/l2beat/pull/13922#discussion_r4549049968"
+            }
+          ]
+        }
+      },
+      {
+        "isResolved": false,
+        "isOutdated": true,
+        "comments": {
+          "nodes": [
+            {
+              "author": {
+                "login": "coderabbitai",
+                "__typename": "Bot"
+              },
+              "url": "https://github.com/l2beat/l2beat/pull/13922#discussion_r4549049985"
+            }
+          ]
+        }
+      },
+      {
+        "isResolved": true,
+        "isOutdated": true,
+        "comments": {
+          "nodes": [
+            {
+              "author": {
+                "login": "coderabbitai",
+                "__typename": "Bot"
+              },
+              "url": "https://github.com/l2beat/l2beat/pull/13922#discussion_r4549049991"
+            }
+          ]
+        }
+      },
+      {
+        "isResolved": false,
+        "isOutdated": true,
+        "comments": {
+          "nodes": [
+            {
+              "author": {
+                "login": "coderabbitai",
+                "__typename": "Bot"
+              },
+              "url": "https://github.com/l2beat/l2beat/pull/13922#discussion_r4549050002"
+            }
+          ]
+        }
+      },
+      {
+        "isResolved": false,
+        "isOutdated": true,
+        "comments": {
+          "nodes": [
+            {
+              "author": {
+                "login": "coderabbitai",
+                "__typename": "Bot"
+              },
+              "url": "https://github.com/l2beat/l2beat/pull/13922#discussion_r4549050011"
+            }
+          ]
+        }
+      },
+      {
+        "isResolved": false,
+        "isOutdated": true,
+        "comments": {
+          "nodes": [
+            {
+              "author": {
+                "login": "coderabbitai",
+                "__typename": "Bot"
+              },
+              "url": "https://github.com/l2beat/l2beat/pull/13922#discussion_r4549142955"
+            }
+          ]
+        }
+      },
+      {
+        "isResolved": false,
+        "isOutdated": false,
+        "comments": {
+          "nodes": [
+            {
+              "author": {
+                "login": "coderabbitai",
+                "__typename": "Bot"
+              },
+              "url": "https://github.com/l2beat/l2beat/pull/13922#discussion_r4549142967"
+            }
+          ]
+        }
+      },
+      {
+        "isResolved": false,
+        "isOutdated": false,
+        "comments": {
+          "nodes": [
+            {
+              "author": {
+                "login": "coderabbitai",
+                "__typename": "Bot"
+              },
+              "url": "https://github.com/l2beat/l2beat/pull/13922#discussion_r4549142979"
+            }
+          ]
+        }
+      },
+      {
+        "isResolved": false,
+        "isOutdated": false,
+        "comments": {
+          "nodes": [
+            {
+              "author": {
+                "login": "coderabbitai",
+                "__typename": "Bot"
+              },
+              "url": "https://github.com/l2beat/l2beat/pull/13922#discussion_r4549142985"
+            }
+          ]
+        }
+      },
+      {
+        "isResolved": false,
+        "isOutdated": false,
+        "comments": {
+          "nodes": [
+            {
+              "author": {
+                "login": "coderabbitai",
+                "__typename": "Bot"
+              },
+              "url": "https://github.com/l2beat/l2beat/pull/13922#discussion_r4549142995"
+            }
+          ]
+        }
+      },
+      {
+        "isResolved": false,
+        "isOutdated": false,
+        "comments": {
+          "nodes": [
+            {
+              "author": {
+                "login": "github-advanced-security",
+                "__typename": "Bot"
+              },
+              "url": "https://github.com/l2beat/l2beat/pull/13922#discussion_r4549886905"
+            }
+          ]
+        }
+      },
+      {
+        "isResolved": false,
+        "isOutdated": false,
+        "comments": {
+          "nodes": [
+            {
+              "author": {
+                "login": "coderabbitai",
+                "__typename": "Bot"
+              },
+              "url": "https://github.com/l2beat/l2beat/pull/13922#discussion_r4549953538"
+            }
+          ]
+        }
+      },
+      {
+        "isResolved": false,
+        "isOutdated": false,
+        "comments": {
+          "nodes": [
+            {
+              "author": {
+                "login": "coderabbitai",
+                "__typename": "Bot"
+              },
+              "url": "https://github.com/l2beat/l2beat/pull/13922#discussion_r4549953549"
+            }
+          ]
+        }
+      },
+      {
+        "isResolved": false,
+        "isOutdated": false,
+        "comments": {
+          "nodes": [
+            {
+              "author": {
+                "login": "coderabbitai",
+                "__typename": "Bot"
+              },
+              "url": "https://github.com/l2beat/l2beat/pull/13922#discussion_r4549953559"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "commits": {
+    "nodes": [
+      {
+        "commit": {
+          "statusCheckRollup": {
+            "contexts": {
+              "nodes": [
+                {
+                  "__typename": "CheckRun",
+                  "name": "affected",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "affected",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "Build backend container image",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "Analyze (actions)",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "affected / List affected packages",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "config-diff",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "forbid-mixed-changes",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "forbid-mixed-changes",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "forbid-mixed-changes",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "Config (backend - staging)",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "Analyze (javascript-typescript)",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "Config (backend - production)",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "Analyze (python)",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "Config (update-monitor - staging)",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "Config (update-monitor - production)",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "Config (tvs - staging)",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "Config (tvs - production)",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "deploy-frontend",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "deploy-frontend",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "Build frontend",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "deploy-frontend / Deploy to Coolify",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "Config smoke test",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "deploy-disco-ui",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "deploy-disco-ui",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "deploy-disco-ui",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "Build discoui",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "deploy-token-ui",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "deploy-token-ui",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "deploy-token-ui",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "Build tools",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "Build token-backend container image",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "Typecheck",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "Test",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "E2E tests (Chromium 1/2)",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "E2E tests (Chromium 2/2)",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "E2E tests (perf)",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "E2E tests (blobs perf)",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "DiscoUI E2E tests (1/2)",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "DiscoUI E2E tests (2/2)",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "Lint & Format",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "Test if all GH Action jobs have timeout defined",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "E2E tests",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "CodeQL",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "CodeRabbit",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "Socket Security: Project Report",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "Socket Security: Pull Request Alerts",
+                  "status": "COMPLETED"
+                }
+              ]
+            }
+          }
+        }
+      }
+    ]
+  }
+}

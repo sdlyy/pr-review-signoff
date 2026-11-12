@@ -1,0 +1,453 @@
+{
+  "headRefOid": "15feaf27a120f94ae362ecb3a7490fc995c429c4",
+  "early": {
+    "nodes": [
+      {
+        "id": "IC_kwDOFO12sc8AAAABkm9qqQ",
+        "author": {
+          "login": "coderabbitai",
+          "__typename": "Bot"
+        },
+        "body": "<summary><strong>Merge Risk:</strong> <strong><picture><img src=\"https://storage.googleapis.com/coderabbit_public_assets/review-comment-icons-v1/risk-unassessed-16.svg\" width=\"16\" height=\"16\" align=\"absmiddle\" alt=\"\"></picture> Minimal</strong> · up to <code>15fea</code></summary>\n<!-- final_review_risk_start -->\n<!-- final_review_risk_label\n**Merge Risk:** **⚪ Minimal** · up to `15fea`\n<!-- final_review_risk_coverage:{\"sourceCommitId\":\"15feaf27a120f94ae362ecb3a7490fc995c429c4\",\"coveredCommitId\":\"15feaf27a120f94ae362ecb3a7490fc995c429c4\",\"kind\":\"reviewed\"} -->\n<!-- final_review_risk_end -->",
+        "url": "https://github.com/l2beat/l2beat/pull/13886#issuecomment-6751742633",
+        "updatedAt": "2026-11-10T09:39:15Z"
+      },
+      {
+        "id": "IC_kwDOFO12sc8AAAABkm9rBQ",
+        "author": {
+          "login": "github-actions",
+          "__typename": "Bot"
+        },
+        "body": "",
+        "url": "https://github.com/l2beat/l2beat/pull/13886#issuecomment-6751742725",
+        "updatedAt": "2026-11-10T09:31:36Z"
+      },
+      {
+        "id": "IC_kwDOFO12sc8AAAABknNBjg",
+        "author": {
+          "login": "chatgpt-codex-connector",
+          "__typename": "Bot"
+        },
+        "body": "<!-- codex-review-state:v1 {\"code_review\":{\"commit_sha\":\"15feaf27a120f94ae362ecb3a7490fc995c429c4\",\"has_any_findings\":false,\"has_unresolved_findings\":false,\"status\":\"completed\"},\"security_review\":{\"commit_sha\":null,\"has_any_findings\":null,\"has_unresolved_findings\":null,\"status\":null}} -->",
+        "url": "https://github.com/l2beat/l2beat/pull/13886#issuecomment-6751994254",
+        "updatedAt": "2026-11-10T09:48:45Z"
+      },
+      {
+        "id": "IC_kwDOFO12sc8AAAABknXxUA",
+        "author": {
+          "login": "chatgpt-codex-connector",
+          "__typename": "Bot"
+        },
+        "body": "",
+        "url": "https://github.com/l2beat/l2beat/pull/13886#issuecomment-6752170320",
+        "updatedAt": "2026-11-09T21:39:58Z"
+      },
+      {
+        "id": "IC_kwDOFO12sc8AAAABkynnIg",
+        "author": {
+          "login": "chatgpt-codex-connector",
+          "__typename": "Bot"
+        },
+        "body": "",
+        "url": "https://github.com/l2beat/l2beat/pull/13886#issuecomment-6763964194",
+        "updatedAt": "2026-11-10T09:36:12Z"
+      },
+      {
+        "id": "IC_kwDOFO12sc8AAAABky2awQ",
+        "author": {
+          "login": "chatgpt-codex-connector",
+          "__typename": "Bot"
+        },
+        "body": "",
+        "url": "https://github.com/l2beat/l2beat/pull/13886#issuecomment-6764206785",
+        "updatedAt": "2026-11-10T09:48:43Z"
+      }
+    ]
+  },
+  "recent": {
+    "nodes": [
+      {
+        "id": "IC_kwDOFO12sc8AAAABkm9qqQ",
+        "author": {
+          "login": "coderabbitai",
+          "__typename": "Bot"
+        },
+        "body": "<summary><strong>Merge Risk:</strong> <strong><picture><img src=\"https://storage.googleapis.com/coderabbit_public_assets/review-comment-icons-v1/risk-unassessed-16.svg\" width=\"16\" height=\"16\" align=\"absmiddle\" alt=\"\"></picture> Minimal</strong> · up to <code>15fea</code></summary>\n<!-- final_review_risk_start -->\n<!-- final_review_risk_label\n**Merge Risk:** **⚪ Minimal** · up to `15fea`\n<!-- final_review_risk_coverage:{\"sourceCommitId\":\"15feaf27a120f94ae362ecb3a7490fc995c429c4\",\"coveredCommitId\":\"15feaf27a120f94ae362ecb3a7490fc995c429c4\",\"kind\":\"reviewed\"} -->\n<!-- final_review_risk_end -->",
+        "url": "https://github.com/l2beat/l2beat/pull/13886#issuecomment-6751742633",
+        "updatedAt": "2026-11-10T09:39:15Z"
+      },
+      {
+        "id": "IC_kwDOFO12sc8AAAABkm9rBQ",
+        "author": {
+          "login": "github-actions",
+          "__typename": "Bot"
+        },
+        "body": "",
+        "url": "https://github.com/l2beat/l2beat/pull/13886#issuecomment-6751742725",
+        "updatedAt": "2026-11-10T09:31:36Z"
+      },
+      {
+        "id": "IC_kwDOFO12sc8AAAABknNBjg",
+        "author": {
+          "login": "chatgpt-codex-connector",
+          "__typename": "Bot"
+        },
+        "body": "<!-- codex-review-state:v1 {\"code_review\":{\"commit_sha\":\"15feaf27a120f94ae362ecb3a7490fc995c429c4\",\"has_any_findings\":false,\"has_unresolved_findings\":false,\"status\":\"completed\"},\"security_review\":{\"commit_sha\":null,\"has_any_findings\":null,\"has_unresolved_findings\":null,\"status\":null}} -->",
+        "url": "https://github.com/l2beat/l2beat/pull/13886#issuecomment-6751994254",
+        "updatedAt": "2026-11-10T09:48:45Z"
+      },
+      {
+        "id": "IC_kwDOFO12sc8AAAABknXxUA",
+        "author": {
+          "login": "chatgpt-codex-connector",
+          "__typename": "Bot"
+        },
+        "body": "",
+        "url": "https://github.com/l2beat/l2beat/pull/13886#issuecomment-6752170320",
+        "updatedAt": "2026-11-09T21:39:58Z"
+      },
+      {
+        "id": "IC_kwDOFO12sc8AAAABkynnIg",
+        "author": {
+          "login": "chatgpt-codex-connector",
+          "__typename": "Bot"
+        },
+        "body": "",
+        "url": "https://github.com/l2beat/l2beat/pull/13886#issuecomment-6763964194",
+        "updatedAt": "2026-11-10T09:36:12Z"
+      },
+      {
+        "id": "IC_kwDOFO12sc8AAAABky2awQ",
+        "author": {
+          "login": "chatgpt-codex-connector",
+          "__typename": "Bot"
+        },
+        "body": "",
+        "url": "https://github.com/l2beat/l2beat/pull/13886#issuecomment-6764206785",
+        "updatedAt": "2026-11-10T09:48:43Z"
+      }
+    ]
+  },
+  "reviews": {
+    "nodes": [
+      {
+        "author": {
+          "login": "coderabbitai",
+          "__typename": "Bot"
+        },
+        "commit": {
+          "oid": "72efeb2e30b1a7a17c8b1cd58b2481cbd4e99444"
+        },
+        "url": "https://github.com/l2beat/l2beat/pull/13886#pullrequestreview-5833008522"
+      },
+      {
+        "author": {
+          "login": "chatgpt-codex-connector",
+          "__typename": "Bot"
+        },
+        "commit": {
+          "oid": "72efeb2e30b1a7a17c8b1cd58b2481cbd4e99444"
+        },
+        "url": "https://github.com/l2beat/l2beat/pull/13886#pullrequestreview-5833109598"
+      },
+      {
+        "author": {
+          "login": "coderabbitai",
+          "__typename": "Bot"
+        },
+        "commit": {
+          "oid": "e81b40649483f757940c757b2ba0b439a6bfe2e8"
+        },
+        "url": "https://github.com/l2beat/l2beat/pull/13886#pullrequestreview-5833204940"
+      },
+      {
+        "author": {
+          "login": "coderabbitai",
+          "__typename": "Bot"
+        },
+        "commit": {
+          "oid": "15feaf27a120f94ae362ecb3a7490fc995c429c4"
+        },
+        "url": "https://github.com/l2beat/l2beat/pull/13886#pullrequestreview-5839738710"
+      }
+    ]
+  },
+  "reviewThreads": {
+    "nodes": [
+      {
+        "isResolved": true,
+        "isOutdated": false,
+        "comments": {
+          "nodes": [
+            {
+              "author": {
+                "login": "chatgpt-codex-connector",
+                "__typename": "Bot"
+              },
+              "url": "https://github.com/l2beat/l2beat/pull/13886#discussion_r4518239606"
+            }
+          ]
+        }
+      },
+      {
+        "isResolved": true,
+        "isOutdated": false,
+        "comments": {
+          "nodes": [
+            {
+              "author": {
+                "login": "coderabbitai",
+                "__typename": "Bot"
+              },
+              "url": "https://github.com/l2beat/l2beat/pull/13886#discussion_r4518315508"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "commits": {
+    "nodes": [
+      {
+        "commit": {
+          "statusCheckRollup": {
+            "contexts": {
+              "nodes": [
+                {
+                  "__typename": "CheckRun",
+                  "name": "affected",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "affected",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "Build backend container image",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "Analyze (actions)",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "affected / List affected packages",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "config-diff",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "forbid-mixed-changes",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "forbid-mixed-changes",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "forbid-mixed-changes",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "Config (backend - staging)",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "Analyze (javascript-typescript)",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "Config (backend - production)",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "Analyze (python)",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "Config (update-monitor - staging)",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "Config (update-monitor - production)",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "Config (tvs - staging)",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "Config (tvs - production)",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "deploy-frontend / Deploy to Coolify",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "deploy-frontend",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "deploy-frontend",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "Build frontend",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "Config smoke test",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "deploy-disco-ui",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "deploy-disco-ui",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "deploy-disco-ui",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "Build discoui",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "deploy-token-ui / Deploy to Coolify",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "deploy-token-ui",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "deploy-token-ui",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "Build tools",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "Build token-backend container image",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "Typecheck",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "Test",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "E2E tests (Chromium 1/2)",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "E2E tests (Chromium 2/2)",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "E2E tests (perf)",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "E2E tests (blobs perf)",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "DiscoUI E2E tests (1/2)",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "DiscoUI E2E tests (2/2)",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "Lint & Format",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "Test if all GH Action jobs have timeout defined",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "E2E tests",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "CodeQL",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "CodeRabbit",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "Socket Security: Project Report",
+                  "status": "COMPLETED"
+                },
+                {
+                  "__typename": "CheckRun",
+                  "name": "Socket Security: Pull Request Alerts",
+                  "status": "COMPLETED"
+                }
+              ]
+            }
+          }
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "pr-review-signoff",
+  "version": "0.3.0",
+  "private": true,
+  "description": "Userscript: shows which AI review agents signed off on a GitHub PR's current head commit",
+  "license": "MIT",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "test": "node --test",
+    "record": "node scripts/record-fixture.js"
+  }
+}
